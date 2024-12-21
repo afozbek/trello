@@ -11,6 +11,11 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        buttonText: "#11264a",
+        buttonBackground: "#DCDFE4",
+      },
+      fontFamily: {
+        tomorrow: "var(--font-tomorrow)",
       },
     },
   },
